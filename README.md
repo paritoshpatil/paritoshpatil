@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Pari</h1>
 <h3 align="center">A full-stack developer from India - making stuff for the internet, on the internet.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paritoshpatil" alt="paritoshpatil" /></a> </p>
-
 - 🔭 currently working on [possession - a blazing-fast home inventory system](https://github.com/paritoshpatil/possession-frontend)
 
 - 🌱 currently learning **NextJS, OAuth, RadixUI**
