@@ -1,17 +1,12 @@
 <h1 align="center">Hi, I'm Pari</h1>
-<h3 align="center">A full-stack developer from India - making stuff for the internet, on the internet.</h3>
+<h3 align="center">A full-stack developer from India - making stuff on the internet, for the internet.</h3>
 
-- 🔭 currently working on [possession - a blazing-fast home inventory system](https://github.com/paritoshpatil/possession-frontend)
-
-- 🌱 currently learning **NextJS, OAuth, RadixUI**
-
-- 👨‍💻 all of my projects are available at [https://www.paritoshpatil.info](https://www.paritoshpatil.info)
-
-- 💬 ask me about **Angular, HTML, CSS and any other front-end technologies**
-
-- 📫 reach me @ **paritoshpatil54321@gmail.com**
-
-- ⚡ Fun fact **I also produce music under the pseudonym LeadHeart**
+🔭 currently working on [possession - a blazing-fast home inventory system](https://github.com/paritoshpatil/possession-frontend)
+🌱 currently learning **NextJS, OAuth, RadixUI**
+👨‍💻 all of my projects are available at [https://www.paritoshpatil.info](https://www.paritoshpatil.info)
+💬 ask me about **Angular, HTML, CSS and any other front-end technologies**
+📫 reach me @ **paritoshpatil54321@gmail.com**
+⚡ Fun fact **I also produce music under the pseudonym LeadHeart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
